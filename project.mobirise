@@ -21,9 +21,13 @@
         "isRtl": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/primary-nav-logo.gif",
+    "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 3,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -41,6 +45,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "16px",
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -63,14 +74,7 @@
           },
           "title": "Web Service",
           "text": "User opens the “Service” tab at the top left of the interface, to display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, a user may specify the service URL and additional customization functions for handling and displaying data (feature type name, region of focus, visibility details, attributes to visualize on the globe). The globe then auto-zooms in or out to the area of interest, and displays the selected dataset features as previously specified. The user may, while visualizing the uploaded data, take advantage of layer control options too to enable/disable layer views. Once features are loaded, and depending on whether they contain additional attributes or metadata, clicking on each on the map will bring up a box with related details&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "16px",
-              "text-align": "left",
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
           "_inherit": "msg-box5",
@@ -107,7 +111,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/gvsT8ekgl68",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -155,7 +159,7 @@
           },
           "title": "",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ogcaisproject.github.io/\" data-toolbar=\"-mbrBtnMove\">Retunr Home</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ogcaisproject.github.io/\" data-toolbar=\"-mbrBtnMove\">Homepage</a>"
         }
       ]
     }
