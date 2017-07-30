@@ -70,11 +70,11 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Web Service",
           "text": "User opens the “Service” tab at the top left of the interface, to display web service loading options for selection (WFS, WCS, or WMS) . Via the import web service features box, a user may specify the service URL and additional customization functions for handling and displaying data (feature type name, region of focus, visibility details, attributes to visualize on the globe). The globe then auto-zooms in or out to the area of interest, and displays the selected dataset features as previously specified. The user may, while visualizing the uploaded data, take advantage of layer control options too to enable/disable layer views. Once features are loaded, and depending on whether they contain additional attributes or metadata, clicking on each on the map will bring up a box with related details&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">View Demonstration</a> "
         },
         {
           "_tags": [
