@@ -411,3 +411,12 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-0 .mbr-section-lead {
+  font-size: 16px;
+  text-align: left;
+  color: #ffffff;
+}
+#msg-box3-2 .mbr-section-title,
+#msg-box3-2 p {
+  color: #000;
+}
