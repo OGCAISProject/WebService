@@ -115,6 +115,14 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "features3-4",
           "_params": {
             "paddingTop": "1",
@@ -151,7 +159,7 @@
             }
           },
           "title1": "Web Mapping Service&nbsp;<div><br></div>",
-          "subtitle1": "The WMS service includes remote sensing imagery from NASA Earth Observations, with time attributes ranging from the year 2000 to 2017. These maps show several types of datasets across the globe, such as the locations of actively burning fires. It also has maps that include data from all over the world, collected since the year 2000. Examples of themed layers are administrative boundaries at different resolutions, for all world countries and agricultural lands and locations of anthropogenic biomes (e.g., croplands, pastures, urbanized places)<div><br></div>",
+          "subtitle1": "The WMS service includes remote sensing imagery from NASA Earth Observations. These maps show several types of datasets across the globe, such as the locations of actively burning fires. It also has maps that include data from all over the world. Examples of themed layers are administrative boundaries at different resolutions, for all world countries and agricultural lands and locations of anthropogenic biomes (e.g., croplands, pastures, urbanized places)<div><br></div>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -221,15 +229,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
